@@ -1,0 +1,110 @@
+      #//season list:
+      season 1:
+      1-7 just the beginning
+      8-10 arc multiverse 1 (1/2)
+      season 2:
+      1-7 arc adventure 1
+      8-12 arc multiverse 1 (2/2)
+      season 3:
+      1-5 crystal battle 1 (1/2)
+      6-12 arc adventure 2
+      season 4:
+      1-3 crystal battle 1 (2/2)
+      4-8 almost lost
+      9-12 arc multiverse 2
+      season 5:
+      1-6 multiverse explorer
+      7-9 trapped multiverse
+      10-12 arvain battle 1
+      season 6:
+      1-5 the alvis(arc mirror)
+      6-10 arvain battle 2
+      11-12 explanation
+      season 7:
+      1-5 making elded
+      6-12 the rise of arvain
+      season 8:
+      1-4 looking for the lost stone
+      5-10 arvain battle 3
+      11-12 corpse kill corpse
+      season 9:
+      1-6 arc
+      7-
+      
+      #//short story season :1
+      eps 1 - selamatkan bob dan bawa kesini
+      eps 2 - rezard balas dendam perkara kena tilang
+      eps 3 - rezard manipulasi scaltan (skeleton) untuk mencuri data milik odly
+      eps 4 - intinya robot
+      eps 5 - paman odly menghilang, awalah ngilang cik
+      eps 6 - sceleton berkhianat+bewan
+      eps 7 - masih  bewan+flashback dan pemberian terakhir odly yang disimpan untuk almor
+      eps 8 - arc multiverse dimulai
+      eps 9 - garmor menjelaskan
+      eps 10 - plot wist arvain+rezard nantang bewan
+      eps 11 - penjelasan multiverse 
+      eps 12 - eee, intinya almor latihan
+      
+      #//Character List
+      almor (alvis zarmor)
+      bob(sahabat mc)
+      paman odly(paman mc)
+      obo(original bot)
+      rezard(useles villain)
+      arvain(boneka villain)
+      fulax(manusia ijau)
+      vonaz(manusia ireng)
+      garvian(guru team)
+      albo(alvis modification(elvieron)
+      alexia(alex)
+      evisa(alexa)
+      evasa(adisa)
+      satif(steve)
+      heltiv(steve pake helmet)
+      obmi(steve×fulax)
+      
+      #//crystalpower list
+      red/reazor : god instinct
+      orange/tyron : excellent adaptation
+      yellow/rygzer : light reflex
+      green/tymera : time control
+      blue/zarmor : broad minded
+      purple/relafion : possibility seeker
+      magenta/serzon : field controller
+      
+      #//the eye
+      ufigan eye
+      -objecter(arrange individual objects in an area or even more)
+      -limitless molecule(can change body molecules into anything desired)
+      -visioner(see 306°, as far as possible and can penetrate barriers) 
+      -regeneration(infinity for yourself)
+      -speedlight(god's speed in thinking/moving)
+      -possibility(create/change the possibility of something even though it is absolute)
+      -area(controlling the shape/molecules of the area/field)
+      
+      uzagan eye
+      -soulter(full control over living and non-living souls in the area)
+      -limitless mind(think beyond reality)
+      -copyter(copy anything seen including powers and objects)
+      -accuracy(in fortune telling/searching)
+      -time(set time without limits)
+      -mind(read/control anyone's mind)
+      -visioner(see 306°, as far as possible and can penetrate barriers) 
+      
+      zavenigon eye
+      -Souligon (soul control)
+      -Limemindigon (infinite think)
+      -Copygon (copy what is seen)
+      -Accuragon (accuracy inf%)
+      -Timegon (control time)
+      -Mindigon (control the mind)
+      -Visionigon (see without limits)
+      -Objectigon (arrange the molecules of an object)
+      -Limeculegon (regulate the molecules of living things)
+      -Regenerigon (Regen op)
+      -Spilegon (self as fast as light)
+      -Possibigon (regulate the relativity of natural/real laws)
+      -Areagon (arrange molecules into the surrounding area)
+      -Dimensigon (dimension explorer)
+      -Hipnogon (creature hypnosis)
+      -multigon (make the focus or whatever it is become more/multiple/split/divided)
