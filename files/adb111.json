@@ -1,0 +1,635 @@
+[
+  {
+    "title": "base64 text",
+    "desc": "encode and decode languages to base64 and vice versa",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "encode",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/base64/encodemenu"
+      },
+      {
+        "name": "decode",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/base64/decodemenu"
+      },
+      {
+        "name": "encode",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/base64/encodeapig"
+      },
+      {
+        "name": "decode",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/base64/decodeapig"
+      }
+    ]
+  },
+  {
+    "title": "base32 text",
+    "desc": "encode and decode languages to base32 and vice versa",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "encode",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/base32/encodemenu"
+      },
+      {
+        "name": "decode",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/base32/decodemenu"
+      },
+      {
+        "name": "encode",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/base32/encodeapig"
+      },
+      {
+        "name": "decode",
+        "type": "api generator",
+        "status": "broken",
+        "path": "library/br"
+      }
+    ]
+  },
+{
+    "title": "base16 text",
+    "desc": "encode and decode languages to base16 and vice versa",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "encode",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/base16/encodemenu"
+      },
+      {
+        "name": "decode",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/base16/decodemenu"
+      },
+      {
+        "name": "encode",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/base16/encodeapig"
+      },
+      {
+        "name": "decode",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/base16/decodeapig"
+      }
+    ]
+  },
+{
+    "title": "tripweb text converter",
+    "desc": "encode and decode languages to tripweb txtconv and vice versa",
+    "mbt" : "true",
+    "subapps": [
+      {
+        "name": "encode",
+        "type": "static menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "decode",
+        "type": "static menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "encode",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "decode",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      }
+    ]
+  },
+{
+    "title": "hash SHA256",
+    "desc": "converts text to SHA256 hash",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "converter",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/hashsha256/cthash"
+      },
+      {
+        "name": "similarity check",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/hashsha256/compatibilitytest"
+      },
+      {
+        "name": "converter",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/hashsha256/aencg"
+      },
+      {
+        "name": "similarity check",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/hashsha256/adecg"
+      }
+    ]
+  },
+{
+    "title": "discord webhook",
+    "desc": "interacting on discord webhooks",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "send plaintext",
+        "type": "dynamic menu",
+        "status": "",
+        "path": "apps/discordwebhook/plaintext"
+      },
+      {
+        "name": "send embed",
+        "type": "dynamic menu",
+        "status": "",
+        "path": "apps/discordwebhook/embed"
+      }
+    ]
+  },
+{
+    "title": "random sentence generator",
+    "desc": "generate a random sentence",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "random text",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/rdmsgenerator/mrtextg"
+      },
+      {
+        "name": "random number",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/rdmsgenerator/mrnumberg"
+      },
+      {
+        "name": "random password",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/rdmsgenerator/mrpwg"
+      },
+      {
+        "name": "random subtext",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/rdmsgenerator/mrsubtextg"
+      },
+      {
+        "name": "random text",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "random number",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/rdmsgenerator/numberag"
+      },
+      {
+        "name": "random password",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/rdmsgenerator/pwag"
+      },
+      {
+        "name": "random subtext",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/rdmsgenerator/subtextag"
+      }
+    ]
+  },
+{
+    "title": "github to repo",
+    "desc": "change github type raw/io/com to raw/io/com",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "com to raw",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "com to io",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "raw to com",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "raw to io",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "io to raw",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "io to com",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "library/cs"
+      }
+    ]
+  },
+  {
+    "title": "github to repo (api)",
+    "desc": "I provide a separate API version because if it is combined into a full subapp it will be too long",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "com to raw",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "com to io",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "raw to com",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "raw to io",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "io to raw",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "io to com",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      }
+    ]
+  },
+{
+    "title": "GitHub profile",
+    "desc": "find the profile of the nickname you are looking for",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "found",
+        "type": "dynamic menu",
+        "status": "",
+        "path": "apps/githubprofile/found"
+      },
+      {
+        "name": "founder",
+        "type": "dynamic menu",
+        "status": "",
+        "path": "apps/githubprofile/founder"
+      },
+      {
+        "name": "found",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/githubprofile/foundag"
+      },
+      {
+        "name": "founder",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/githubprofile/founderag"
+      }
+    ]
+  },
+{
+    "title": "mcpe manifest.json generator",
+    "desc": "create manifest.json for mcpe",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "resource pack",
+        "type": "static menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "behavior pack",
+        "type": "static menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "resource pack",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "behavior pack",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      }
+    ]
+  },
+{
+    "title": "Minecraft server status",
+    "desc": "check Minecraft Java/bedrock server status",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "mcpe/bedrock",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "mcje/java",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "mcpe/bedrock",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "mcje/java",
+        "type": "api generator",
+        "status": "soon",
+        "path": "library/cs"
+      }
+    ]
+  },
+{
+    "title": "Minecraft skin renderer",
+    "desc": "render Minecraft skins from raw/image/img to 3D (must be valid images)",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "import image",
+        "type": "static menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "url image",
+        "type": "static menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "url image v2",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "library/cs"
+      }
+    ]
+  },
+{
+    "title": "time",
+    "desc": "In essence, the features here are related to time.",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "stopwatch",
+        "type": "static menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "countdown timer",
+        "type": "static menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "all time GMT",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "library/cs"
+      },
+      {
+        "name": "CPS test",
+        "type": "static menu",
+        "status": "soon",
+        "path": "library/cs"
+      }
+    ]
+  },
+{
+    "title": "source code opener",
+    "desc": "view and download the source code of the website from the link you provided",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "view",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/sourcode/view"
+      },
+      {
+        "name": "download",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/sourcode/download"
+      }
+    ]
+  },
+{
+    "title": "Brat generator",
+    "desc": "make brat pictures/videos",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "image",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/brat/image"
+      },
+      {
+        "name": "video",
+        "type": "api generator",
+        "status": "",
+        "path": "apps/brat/video"
+      }
+    ]
+  },
+{
+    "title": "your IP",
+    "desc": "tell information from your IP",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "your IP/ipfy",
+        "type": "dynamic menu",
+        "status": "",
+        "path": "apps/yourip/ipfy"
+      },
+      {
+        "name": "more info/ipwho",
+        "type": "dynamic menu",
+        "status": "",
+        "path": "apps/yourip/ipwho"
+      },
+      {
+        "name": "your IP/ipfy",
+        "type": "redirect",
+        "status": "",
+        "path": "apps/yourip/ipfyred"
+      },
+      {
+        "name": "more info/ipwho",
+        "type": "redirect",
+        "status": "",
+        "path": "apps/yourip/ipwhored"
+      }
+    ]
+  },
+  {
+    "title": "code editor",
+    "desc": "help you create/change code",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "fronted(html/CSS/JS)",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "apps/codeditor/fronted"
+      },
+      {
+        "name": "php",
+        "type": "dynamic menu",
+        "status": "soon",
+        "path": "apps/codeditor/php"
+      },
+      {
+        "name": "json",
+        "type": "dynamic menu",
+        "status": "beta",
+        "path": "apps/codeditor/json"
+      }
+    ]
+  },
+{
+    "title": "json editor",
+    "desc": "edit your json",
+    "mbt" : "false",
+    "subapps": [
+    {
+        "name": "valid checker",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/jsoneditor/validchecker"
+      },
+      {
+        "name": "shorten lines",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/jsoneditor/shortlines"
+      },
+      {
+        "name": "neat lines",
+        "type": "static menu",
+        "status": "",
+        "path": "apps/jsoneditor/neatlines"
+      }
+    ]
+  },
+{
+    "title": "text mini studio",
+    "desc": "mini studio for your text",
+    "mbt" : "false",
+    "subapps": [
+      {
+        "name": "text editor",
+        "type": "dynamic menu",
+        "status": "",
+        "path": "apps/textmstudio/editor"
+      },
+      {
+        "name": "text viewer",
+        "type": "static menu",
+        "status": "soon",
+        "path": "apps/textmstudio/viewer"
+      },
+      {
+        "name": "plaintext analyzer",
+        "type": "static menu",
+        "status": "soon",
+        "path": "apps/textmstudio/pt_analyzer"
+      }
+    ]
+  },
+{
+    "title": "tripweb non apps",
+    "desc": "This is not a functional app like other apps, but an informational tripweb app.",
+    "mbt" : "true",
+    "subapps": [
+      {
+        "name": "changelog",
+        "type": "non apps",
+        "status": "",
+        "path": "changelog/list"
+      },
+      {
+        "name": "about tripweb",
+        "type": "non apps",
+        "status": "",
+        "path": "about"
+      },
+      {
+        "name": "policy",
+        "type": "non apps",
+        "status": "",
+        "path": "policy"
+      }
+    ]
+  }
+]
